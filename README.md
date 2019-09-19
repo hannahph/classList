@@ -1,5 +1,6 @@
 # Class List for 1.125 - Fall 2019
 First-Name,Last-Name,GithubID
+Lisa, Crofoot, lcrofoot
 Joe,Robinson,jrobins-open
 Keiji,Kimura,keijikimura1986
 Hannah,Phillips,hannahph
